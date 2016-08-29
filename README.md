@@ -1,3 +1,3 @@
 # Go App
 
-A work in progress golang web app application structure study.
+A go web app application layout study
